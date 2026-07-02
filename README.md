@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Engineering Manager · AI Researcher</strong><br/>
-  PhD Candidate in Informatics in Education — PPGIE/UFRGS · Porto Alegre, Brazil 🇧🇷
+  PhD Candidate in Informatics in Education — PPGIE/UFRGS · Brazil 🇧🇷
 </p>
 
 <p align="center">
