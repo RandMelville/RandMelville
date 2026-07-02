@@ -15,7 +15,6 @@
   <a href="https://orcid.org/0009-0005-3056-5074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
   <a href="https://lattes.cnpq.br/5644283891849375"><img src="https://img.shields.io/badge/Lattes-CV-00599C?style=flat-square&logo=googlescholar&logoColor=white"/></a>
   <a href="mailto:randerson.melville@gmail.com"><img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=RandMelville&style=flat-square&color=4c1&label=Profile+views"/>
 </p>
 
 ---
