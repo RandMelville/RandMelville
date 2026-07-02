@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RandMelville?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI%20in%20Education-4c1?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/randersonmelville/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0005-3056-5074"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://lattes.cnpq.br/5644283891849375"><img src="https://img.shields.io/badge/Lattes-CV-00599C?style=flat-square&logo=googlescholar&logoColor=white"/></a>
   <a href="mailto:randerson.melville@gmail.com"><img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=RandMelville&style=flat-square&color=4c1&label=Profile+views"/>
 </p>
@@ -99,8 +101,10 @@ Doutorando no **PPGIE/UFRGS**, desenvolvendo a tese **RemidiAção**, uma plataf
 
 ## 🤝 Connect &nbsp;·&nbsp; Contato
 
+- 💼 **LinkedIn:** [in/randersonmelville](https://www.linkedin.com/in/randersonmelville/)
+- 🔬 **ORCID:** [0009-0005-3056-5074](https://orcid.org/0009-0005-3056-5074)
+- 🎓 **Lattes:** [Currículo CNPq](https://lattes.cnpq.br/5644283891849375) · PPGIE/UFRGS — Informatics in Education / Informática na Educação
 - 📫 **Email:** randerson.melville@gmail.com
-- 🎓 **Research:** PPGIE/UFRGS — Informatics in Education / Informática na Educação
-- 💼 Open to talks, workshops & advisory on **trustworthy AI** — Aberto a palestras, workshops e advisory sobre **IA confiável**
+- 🗣️ Open to talks, workshops & advisory on **trustworthy AI** — Aberto a palestras, workshops e advisory sobre **IA confiável**
 
 <sub>🧊 Arctic Code Vault Contributor · 🦈 Pull Shark · 🤝 Pair Extraordinaire · 🌟 Starstruck</sub>
